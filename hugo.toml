@@ -1,3 +1,5 @@
-baseURL = 'https://blog.yhsun.cn/'
-languageCode = 'zh-cn'
-title = '孙厚运的博客'
+baseURL = "https://blog.yhsun.cn/"
+languageCode = "zh-cn"
+title = "孙厚运的博客"
+theme = "PaperMod"
+
